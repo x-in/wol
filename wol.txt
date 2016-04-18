@@ -1,4 +1,5 @@
-date, run, push, pull, sit, beer
+date, run, push, pull, sit, beer, double
+20160418^11^30*7^0^30*2^0^10+7+7+5+5+5
 20160417^12^0^9+8+8+5^0^0
 20160416^nogo
 20160415^15^20*7^1^30*3^0
