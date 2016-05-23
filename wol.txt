@@ -1,4 +1,5 @@
 date, run, push, pull, sit, beer, double
+20160523^nogo
 20160522^nogo
 20160521^11
 20160520^11
